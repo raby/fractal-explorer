@@ -8,7 +8,7 @@ Java 8 and Apache Maven >= 3.5.0 are required to package and run this program.
 
 ## Usage
 
-To package and run this program, clone this repository and issue the following commands from the project root directory:
+Clone this repository and issue the following commands from the project root directory to package and run this program:
 
 ```bash
 mvn package
